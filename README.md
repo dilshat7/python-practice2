@@ -31,7 +31,7 @@ python run_practice.py
 ```
 
 ## 🛠 Technologies
-*   Python 3.x
+*   Python 3.13
 *   OOP Patterns
 *   Test Scenario Modeling
 
